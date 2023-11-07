@@ -4,7 +4,7 @@
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
-  <strong>kann man das seperat laden, oder nicht laden?</strong>
+  <h3>Text editieren</h3>
 </template>
 
 <script>
