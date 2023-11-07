@@ -1,11 +1,10 @@
 <template>
-  <h1>Das ist der zweite h1-Test</h1>
-  <p>noch eine Änderung</p>
+  <h1>Arbeite an dieser Stelle</h1>
+
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
-  <h2>Text editieren</h2>
 </template>
 
 <script>
