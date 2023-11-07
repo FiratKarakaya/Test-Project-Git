@@ -1,6 +1,7 @@
 <template>
   <h1>Das ist der zweite h1-Test</h1>
   <p>noch eine Änderung</p>
+  <h2>feaute-x</h2>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
