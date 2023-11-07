@@ -1,11 +1,10 @@
 <template>
-  <h1>Das ist der zweite h1-Test</h1>
-  <p>noch eine Änderung</p>
-  <h2>feaute-x</h2>
+  <span>Versucht diesen Text zu mergen</span>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
+  <strong>kann man das seperat laden, oder nicht laden?</strong>
 </template>
 
 <script>
