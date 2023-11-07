@@ -1,6 +1,5 @@
 <template>
-  <h1>Das ist der zweite h1-Test</h1>
-  <p>noch eine Änderung</p>
+  <span>Versucht diesen Text zu mergen</span>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
