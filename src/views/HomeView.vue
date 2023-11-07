@@ -5,6 +5,7 @@
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
+  <h2>Text editieren</h2>
 </template>
 
 <script>
