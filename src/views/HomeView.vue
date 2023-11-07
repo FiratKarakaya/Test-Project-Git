@@ -1,5 +1,6 @@
 <template>
-  <h1>Das ist ein h1-Test</h1>
+  <h1>Das ist der zweite h1-Test</h1>
+  <p>noch eine Änderung</p>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
